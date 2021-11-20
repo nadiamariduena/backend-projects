@@ -5,7 +5,7 @@
 <br>
 <br>
 
-## <u>FEATURED PROJECTS</u> ⬇️
+# <u>FEATURED PROJECTS</u> ⬇️
 
 <br>
 
@@ -25,24 +25,8 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 | :------: | :-------: | :-------------: |
 |  col 1   |   col2    |      col 1      | -->
 
-<br>
+##### Please click on the image <u>**to view** </u>the app !!
 
-<br>
-
-> **I started this project out of curiosity**, I wanted to see the **advantages & disadvantages** in building an e-commerce app using React, **Commercejs and stripe** and an app build with (Mongodb, Express, React and Nodejs | **MERN**).
-
-> **PROS:** Its certainly faster to build, in more of that **commercejs** has some nice tools to communicate with the client. **CONS:** as a beginner I like to have the code in front of me to see from where an issue is coming
-
-<br>
-<br>
-
-## The Custom version
-
-##### The Project CODE ( upon request): [click here:| NEMU mobiles](https://github.com/nadiamariduena/custom-ecommerce-shop-react-stripe-clean)
-
-#### Please click on the image <u>**to view** </u>the app !!
-
-<br>
 <br>
 
 [<img src="./img_readme/NEMU_1.jpg"/>]()
@@ -50,9 +34,27 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 [<img src="./img_readme/NEMU-PHONE-ecommerce.gif"/>]()
 
 <br>
+
+### The Custom version
+
+##### The Project CODE ( upon request): [click here:| NEMU mobiles](https://github.com/nadiamariduena/custom-ecommerce-shop-react-stripe-clean)
+
+<br>
+
+### About:
+
+> **I started this project out of curiosity**, I wanted to see the **advantages & disadvantages** in building an e-commerce app using React, **Commercejs and stripe** and an app build with (Mongodb, Express, React and Nodejs | **MERN**). <br> <br> **PROS:** Its certainly faster to build, in more of that **commercejs** has some nice tools to communicate with the client. **CONS:** as a beginner I like to have the code in front of me to see from where an issue is coming
+
+<br>
 <br>
 
 ## The Default version
+
+<br>
+
+> - The Default version only contains the **necessary** in terms of **styles**, the important here was the **functionality**.
+
+<br>
 
 ##### The Default CODE: [ click here:| Default Layout: ](https://github.com/nadiamariduena/e-commerce-react-stripe)
 
