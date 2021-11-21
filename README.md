@@ -25,11 +25,13 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 | :------: | :-------: | :-------------: |
 |  col 1   |   col2    |      col 1      | -->
 
+<br>
+
 ##### Please click on the image <u>**to view** </u>the app !!
 
 <br>
 
-[<img src="./img_readme/NEMU_1.jpg"/>]()
+[<img src="./img_readme/NEMU_1.jpg"/>](https://github.com/nadiamariduena/e-commerce-react-stripe)
 
 <!-- [<img src="./img_readme/NEMU_2.jpg"/>]() -->
 
