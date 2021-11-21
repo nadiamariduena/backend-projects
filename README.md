@@ -60,20 +60,7 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 [<img src="./img_readme/NEMU_2.jpg"/>](https://github.com/nadiamariduena/e-commerce-react-stripe)
 
 <br>
-<br>
-<br>
 
-## The Default version
-
-<br>
-
-- The Default version only contains the **necessary** in terms of **styles**, the important here was the **functionality**.
-
-<br>
-
-##### The Default CODE: [ click here:| Default Layout: ](https://github.com/nadiamariduena/e-commerce-react-stripe)
-
-[<img src="./img_readme/nemu_default-design.jpg"/>](https://github.com/nadiamariduena/e-commerce-react-stripe)
 
 <hr>
 <br>
