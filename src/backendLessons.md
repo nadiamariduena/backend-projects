@@ -41,6 +41,16 @@
 ##### [MONGO install | Mongo init | routes schemas | BCRYPT](https://github.com/nadiamariduena/mongo-28-dci/tree/master/personal-lessons-tutorials/mern-ecommerce1t)
 
 <br>
+
+[queries | sort()| ](https://github.com/nadiamariduena/react-mern-21-backend/blob/master/a_MONGO-TOPICS.md)
+
+#### [MongoDB: The Mongo Shell & Basic Commands](https://www.bmc.com/blogs/mongo-shell-basic-commands/)
+
+- really nice article
+
+#### source: [MongoDB Sorting: sort() Method & Examples](https://www.bmc.com/blogs/mongodb-sorting/)
+
+<br>
 <hr>
 
 <br>
