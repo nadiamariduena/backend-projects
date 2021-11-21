@@ -38,17 +38,23 @@
 
 #### Personal Lessons
 
-##### [MONGO install | Mongo init | routes schemas | BCRYPT](https://github.com/nadiamariduena/mongo-28-dci/tree/master/personal-lessons-tutorials/mern-ecommerce1t)
+- [MONGO install | Mongo init | routes schemas | BCRYPT](https://github.com/nadiamariduena/mongo-28-dci/tree/master/personal-lessons-tutorials/mern-ecommerce1t)
 
-<br>
+- [JWT | integration | Cross-Site Request Forgery | ](https://github.com/nadiamariduena/react-mern-21-backend/tree/7token-integration-secret-key)
 
-[queries | sort()| ](https://github.com/nadiamariduena/react-mern-21-backend/blob/master/a_MONGO-TOPICS.md)
+- [queries | sort()| ](https://github.com/nadiamariduena/react-mern-21-backend/blob/master/a_MONGO-TOPICS.md)
 
-#### [MongoDB: The Mongo Shell & Basic Commands](https://www.bmc.com/blogs/mongo-shell-basic-commands/)
+- [MongoDB: The Mongo Shell & Basic Commands](https://www.bmc.com/blogs/mongo-shell-basic-commands/)
 
 - really nice article
 
 #### source: [MongoDB Sorting: sort() Method & Examples](https://www.bmc.com/blogs/mongodb-sorting/)
+
+<br>
+
+### Commercejs related
+
+- [422 error | CORS](./cors_42_issue.md)
 
 <br>
 <hr>
