@@ -33,7 +33,7 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 <br>
 
-[<img src="./img_readme/NEMU_1.jpg"/>](https://github.com/nadiamariduena/e-commerce-react-stripe)
+[<img src="./img_readme/NEMU-PHONE-ecommerce.gif"/>](https://github.com/nadiamariduena/e-commerce-react-stripe)
 
 <!-- [<img src="./img_readme/NEMU_2.jpg"/>]() -->
 
