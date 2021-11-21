@@ -17,6 +17,8 @@
 
 #### _10/2021_
 
+<br>
+
 #### Software | languages | libraries used:
 
 React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Components, Photoshop.
@@ -27,7 +29,7 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 <br>
 
-##### Please click on the image <u>**to visit the repository** </u>the app !!
+##### Please click on the image <u>**to visit the app repository** </u>!!
 
 <br>
 
@@ -52,13 +54,20 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 > **Aside from that I wasn't entirely satisfied with the design so I customized it** as you can see from the preview shown above.
 
 <br>
+
+##### Detail NEMU (custom)
+
+[<img src="./img_readme/NEMU_2.jpg"/>](https://github.com/nadiamariduena/e-commerce-react-stripe)
+
+<br>
+<br>
 <br>
 
 ## The Default version
 
 <br>
 
-> - The Default version only contains the **necessary** in terms of **styles**, the important here was the **functionality**.
+- The Default version only contains the **necessary** in terms of **styles**, the important here was the **functionality**.
 
 <br>
 
@@ -68,7 +77,3 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 <hr>
 <br>
-
-##### Detail NEMU (customized)
-
-[<img src="./img_readme/NEMU_2.jpg"/>](https://github.com/nadiamariduena/e-commerce-react-stripe)
