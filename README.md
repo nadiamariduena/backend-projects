@@ -27,7 +27,7 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 <br>
 
-##### Please click on the image <u>**to view** </u>the app !!
+##### Please click on the image <u>**to visit the repository** </u>the app !!
 
 <br>
 
@@ -45,7 +45,11 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 ### About:
 
-> **I started this project out of curiosity**, I wanted to see the **advantages & disadvantages** in building an e-commerce app using React, **Commercejs and stripe** and an app build with (Mongodb, Express, React and Nodejs | **MERN**). <br> <br> **PROS:** Its certainly faster to build, in more of that **commercejs** has some nice tools to communicate with the client. **CONS:** as a beginner I like to have the code in front of me to see from where an issue is coming
+<br>
+
+> **The main motivator for this project was my curiosity** as well as my desire to expand my knowledge. Due to the disastrous effect **the pandemic had on the small businesses** I used to visit, I decided I wanted to find a way to create websites and e-commerce stores that any business owner could use to represent their wares online, be it small or big. <br>
+> Although it isn't fully functional yet, as there is a final error I have to correct to publish it on the web, this is the result of my work.
+> **Aside from that I wasn't entirely satisfied with the design so I customized it** as you can see from the preview shown below.
 
 <br>
 <br>
