@@ -29,7 +29,7 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 <br>
 
-##### Please [click here](https://github.com/nadiamariduena/e-commerce-react-stripe) or on the image <u>**to visit the app repository** </u>!!
+#### Please [click here](https://github.com/nadiamariduena/e-commerce-react-stripe) or on the image <u>**to visit the app repository 👈** </u>
 
 <br>
 
