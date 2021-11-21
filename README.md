@@ -49,7 +49,7 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 > **The main motivator for this project was my curiosity** as well as my desire to expand my knowledge. Due to the disastrous effect **the pandemic had on the small businesses** I used to visit, I decided I wanted to find a way to create websites and e-commerce stores that any business owner could use to represent their wares online, be it small or big. <br>
 > Although it isn't fully functional yet, as there is a final error I have to correct to publish it on the web, this is the result of my work.
-> **Aside from that I wasn't entirely satisfied with the design so I customized it** as you can see from the preview shown below.
+> **Aside from that I wasn't entirely satisfied with the design so I customized it** as you can see from the preview shown above.
 
 <br>
 <br>
@@ -68,3 +68,7 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 <hr>
 <br>
+
+##### Detail NEMU (customized)
+
+[<img src="./img_readme/NEMU_2.jpg"/>](https://github.com/nadiamariduena/e-commerce-react-stripe)
