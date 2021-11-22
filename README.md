@@ -1,6 +1,8 @@
 ### The following projects were built between 2018 & 2021, during and after [CIMDATA](https://www.cimdata.de/weiterbildung/webentwicklung/) & [DCI](https://digitalcareerinstitute.org/) full stack development course.
 
-##### [**Click here** to see all the lessons related to backend](./src/backendLessons.md)
+- [Click here](./src/backendLessons.md) to see all the lessons related to backend
+
+- [Click here](https://github.com/nadiamariduena/react) to see all the tools I used to style the projects
 
 <br>
 <br>
