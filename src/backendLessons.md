@@ -49,7 +49,7 @@
 
 #### Personal Lessons
 
-- [MONGO install | Mongo init | routes schemas | BCRYPT](https://github.com/nadiamariduena/mongo-28-dci/tree/master/personal-lessons-tutorials/mern-ecommerce1t)
+- [MONGO install | Mongo init | routes schemas | BCRYPT](https://github.com/nadiamariduena/mongo-28-dci/tree/master/personal-lessons-tutorials/mern-ecommerce1)
 
 - [JWT | integration | Cross-Site Request Forgery | ](https://github.com/nadiamariduena/react-mern-21-backend/tree/7token-integration-secret-key)
 
