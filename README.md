@@ -80,7 +80,7 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 #### Software | languages | libraries used:
 
-Mongo, Express, React, Node (**MERN**) | FramerMotion, AOS, MATERIAL UI, Styled Components, Photoshop.
+Mongo, Express, React, Node (**MERN**), STRIPE | FramerMotion, AOS, MATERIAL UI, Styled Components, Photoshop.
 
 <!-- | Software | languages | libraries used: |
 | :------: | :-------: | :-------------: |
