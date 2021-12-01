@@ -1,10 +1,16 @@
 ### The following projects were built between 2018 & 2021, during and after [CIMDATA](https://www.cimdata.de/weiterbildung/webentwicklung/) & [DCI](https://digitalcareerinstitute.org/) full stack development course.
 
-- [Click here](./src/backendLessons.md) to see all the lessons related to backend
+<br>
+
+- [Click here](./src/backendLessons.md) to see all the lessons related to backend ✋
 
 - [Click here](https://github.com/nadiamariduena/react) to see all the tools I used to style the projects
 
 <br>
+<br>
+
+---
+
 <br>
 
 # <u>FEATURED PROJECTS</u> ⬇️
@@ -63,3 +69,27 @@ React, Commercejs, Stripe, scss, FramerMotion, AOS, MATERIAL UI, Styled Componen
 
 <hr>
 <br>
+<br>
+<br>
+
+# NOVE
+
+#### _10/2021_ (e-commerce / in progress 👈)
+
+<br>
+
+#### Software | languages | libraries used:
+
+Mongo, Express, React, Node (**MERN**) | FramerMotion, AOS, MATERIAL UI, Styled Components, Photoshop.
+
+<!-- | Software | languages | libraries used: |
+| :------: | :-------: | :-------------: |
+|  col 1   |   col2    |      col 1      | -->
+
+<br>
+
+#### Please [click here](https://github.com/nadiamariduena/react-mern-21-backend) or on the image <u>**to visit the app repository** </u>
+
+<br>
+
+[<img src="./img_readme/nove-store.gif"/>](https://github.com/nadiamariduena/react-mern-21-backend)
